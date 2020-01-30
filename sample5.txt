@@ -1,0 +1,20 @@
+1   // Load 79=H
+72
+9   // Put 2
+2
+1   // Load 75=E
+69
+9   // Put 2
+2
+1   // Load =Y
+89
+9   // put 2
+2
+23  // Call 11
+11
+50  // End 
+1   // Load 10=newline
+10 
+9   // Put 2
+2
+24  // Return
