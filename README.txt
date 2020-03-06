@@ -23,3 +23,5 @@ javac Memory.java
 
 How to run:
 java Project1 sample2.txt 30
+
+Good luck!
